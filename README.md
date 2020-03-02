@@ -4,5 +4,5 @@ This project is accomplished in MATLAB. The project’s goal is to use the Wavel
 Features Attained are:
 RMS	Mean;	STD	Kurtosis;	Skew;	Energy;	Entropy;	Variance;	Harmonic mean;	Geometric mean;	2nd Momentum;	3rd Momentum;	4th Momentum;	5th Momentum;	Peak-to-Peak;	Crest Factor;	Maximum value.
 
-##Note:-Convert-Given-Data-Into-MATLAB-file. 
+##Note:-Convert Given Data Into MATLAB file. 
 
